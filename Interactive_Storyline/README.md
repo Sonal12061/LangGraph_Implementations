@@ -33,7 +33,7 @@ This project creates an interactive scene-based storytelling experience in the s
 
 2. Install dependencies:
    ```bash
-   pip install langgraph huggingface_hub transformers ipywidgets
+   pip install langgraph langchain_huggingface
    ```
 
 3. Run the notebook:
@@ -61,7 +61,6 @@ Expected output:
 📁 stranger-things-scene/
 ├── Stranger_Things_Scene.ipynb
 ├── README.md
-└── assets/
 ```
 
 ## 🧙‍♀️ Inspirations
